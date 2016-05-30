@@ -1,7 +1,7 @@
 <p align="center">Information Retrieval</br>Multilingual Search System for Social Network</br>CSE 535 - Fall 2016
 ==========================================================================================
 
-<p align="center">[![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_535_Multilingual_Search_System/master/Resources/2.png)](https://www.youtube.com/watch?v=t9ZassrDA40&feature=youtu.be)
+<p align="center">[![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_535_Multilingual_Search_System/master/Resources/3.png)](https://www.youtube.com/watch?v=t9ZassrDA40&feature=youtu.be)
 
 
 Goal
@@ -27,7 +27,7 @@ References
 We have taken reference from below sources to design this search system: -</br>
 1. [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/)</br>
 2. [Apache Solr Tutorials](http://lucene.apache.org/solr/quickstart.html)</br>
-3. [Apache Solr Wiki](https://wiki.apache.org/solr/FrontPage)
+3. [Apache Solr Wiki](https://wiki.apache.org/solr/FrontPage)</br>
 4. [Apache Solr Reference Guide](https://cwiki.apache.org/confluence/display/solr/Apache+Solr+Reference+Guide)
 
 
