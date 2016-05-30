@@ -39,16 +39,17 @@ This project contains scripts and other related material that is developed by [*
 I acknowledge and grateful to [**Professor Steve ko**](https://nsr.cse.buffalo.edu/?page_id=272) and [**TA Kyungho Jeon**](http://www.cse.buffalo.edu/~kyunghoj/) for their continuous support throughout the Course ([**CSE 586**] (http://www.cse.buffalo.edu/~stevko/courses/cse486/spring16/)) that helped me learn the skills of Large Scale Distributed Systems and develop a simplified version of **Distributed HashTable based on CHORD protocol**.
 
 
-Developer
+Contributors
 ---------
 Ramanpreet Singh Khinda (rkhinda@buffalo.edu)</br>
 [![website](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_website.png)](https://branded.me/ramanpreet1990)		[![googleplay](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_google_play.png)](https://play.google.com/store/apps/details?id=suny.buffalo.mis.research&hl=en)		[![twitter](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_twitter.png)](https://twitter.com/dk_sunny1)		[![linkedin](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_linkedin.png)](https://www.linkedin.com/in/ramanpreet1990)
 
+[Alexander Simeonov](https://www.linkedin.com/in/agsimeonov) , [Akash Desai](https://www.linkedin.com/in/akash101192) , [Riaz Munshi](https://www.linkedin.com/in/riazmunshi) and [Karanjeet Singh](https://www.linkedin.com/in/karanjeet-singh-34a7836b) 
 
 License
 ----------
 Copyright {2016} 
-{Ramanpreet Singh Khinda rkhinda@buffalo.edu} 
+{Ramanpreet Singh Khinda rkhinda@buffalo.edu, Alexander Simeonov agsimeon@buffalo.edu, Akash Desai akash101192@gmail.com, Riaz Munshi riazmuns@buffalo.edu and Karanjeet Singh karanjee@buffalo.edu} 
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
