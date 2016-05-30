@@ -52,7 +52,7 @@ References
 ------
 We have taken reference from below sources to design this search system: -</br>
 1. [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/)</br>
-2. [Course by Oresoft LWC](https://www.youtube.com/watch?v=q0srNT_XM_Y&list=PL0ZVw5-GryEkGAQT7lX7oIHqyDPeUyOMQ)
+2. [Course by Oresoft LWC](https://www.youtube.com/watch?v=q0srNT_XM_Y&list=PL0ZVw5-GryEkGAQT7lX7oIHqyDPeUyOMQ)</br>
 3. [Apache Solr Tutorials](http://lucene.apache.org/solr/quickstart.html)</br>
 4. [Apache Solr Wiki](https://wiki.apache.org/solr/FrontPage)</br>
 5. [Apache Solr Reference Guide](https://cwiki.apache.org/confluence/display/solr/Apache+Solr+Reference+Guide)
