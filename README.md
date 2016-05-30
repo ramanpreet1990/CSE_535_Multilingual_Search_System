@@ -1,7 +1,8 @@
 <p align="center">Information Retrieval</br>Multilingual Search System for Social Network</br>CSE 535 - Fall 2016
 ==========================================================================================
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/t9ZassrDA40" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t9ZassrDA40" frameborder="0" allowfullscreen></iframe>
 
 
 ## Our Search System (Projected Design)
