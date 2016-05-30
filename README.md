@@ -6,7 +6,7 @@
 
 Goal
 ------
-The goal of this project is to build a multilingual faceted search system, including a front end that allows users to search and browse multilingual data based on various criteria: topic, location, person, etc.
+The goal of this project is to build a multilingual [faceted search](https://en.wikipedia.org/wiki/Faceted_search) system, including a front end that allows users to search and browse multilingual data based on various criteria: topic, location, person, etc.
 
 
 Projected Design
@@ -22,6 +22,9 @@ Highlights of our Search System
 > - Based on twitter data corpus with data of around **0.1 million tweets**
 > - Data spans more than **120 countries**
 
+For detailed design refer below: -</br> https://github.com/ramanpreet1990/CSE_535_Multilingual_Search_System/blob/master/documents/report.pdf
+
+
 References
 ------
 We have taken reference from below sources to design this search system: -</br>
@@ -29,7 +32,6 @@ We have taken reference from below sources to design this search system: -</br>
 2. [Apache Solr Tutorials](http://lucene.apache.org/solr/quickstart.html)</br>
 3. [Apache Solr Wiki](https://wiki.apache.org/solr/FrontPage)</br>
 4. [Apache Solr Reference Guide](https://cwiki.apache.org/confluence/display/solr/Apache+Solr+Reference+Guide)
-
 
 
 Credits
