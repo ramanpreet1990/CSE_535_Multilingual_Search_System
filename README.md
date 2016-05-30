@@ -1,8 +1,7 @@
-# <p align="center">CSE 435/535 Information Retrieval<br/>Fall 2015<br/>Project Part C: Multilingual Search System</p>
-###### <p align="center">Due Date: 23:59, Dec 11th, 2015</p>
-###### <p align="center">Demo Proposal: Dec 4 , Demo Day: Dec 8 (Subject to Acceptance - Bonus :))</p>
+<p align="center">Information Retrieval</br>Multilingual Search System for Social Network</br>CSE 535 - Fall 2016
+==========================================================================================
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t9ZassrDA40" frameborder="0" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/t9ZassrDA40" frameborder="0" allowfullscreen></iframe>
 
 
 ## Our Search System (Projected Design)
