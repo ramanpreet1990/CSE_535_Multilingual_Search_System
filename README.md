@@ -39,7 +39,7 @@ This project uses below open source api's. We are grateful for their contributio
 > 1. Language Detection Api of [detectlanguage.com](https://detectlanguage.com/) 
 > 2. [Microsoft Bing Language Translation Api](https://github.com/boatmeme/microsoft-translator-java-api)
 
-We also acknowledge and grateful to [**Professor Rohini K. Srihari**](http://www.cedar.buffalo.edu/~rohini/) and TAs [**James Clay**](http://www.cse.buffalo.edu/people/?u=jnclay), [**Nikhil Londhe**](http://www.cse.buffalo.edu/people/?u=nikhillo), [**Chuishi Meng**](http://www.cse.buffalo.edu/people/?u=chuishim) for their continuous support throughout the Course ([**CSE 535**](http://www.cse.buffalo.edu/shared/course.php?e=CSE&n=535&t=Information+Retrieval)) that helped us learn the skills of Retrieval and build a Multilingual Search System.
+We also acknowledge and grateful to [**Professor Rohini K. Srihari**](http://www.cedar.buffalo.edu/~rohini/) and TAs [**James Clay**](http://www.cse.buffalo.edu/people/?u=jnclay), [**Nikhil Londhe**](http://www.cse.buffalo.edu/people/?u=nikhillo), [**Chuishi Meng**](http://www.cse.buffalo.edu/people/?u=chuishim) and [**Ruhan Sa**](http://www.cse.buffalo.edu/people/?u=ruhansa) for their continuous support throughout the Course ([**CSE 535**](http://www.cse.buffalo.edu/shared/course.php?e=CSE&n=535&t=Information+Retrieval)) that helped us learn the skills of Information Retrieval and build a Multilingual Search System.
 
 
 Contributors
