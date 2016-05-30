@@ -22,8 +22,30 @@ Highlights of our Search System
 > - Based on twitter data corpus with data of around **0.1 million tweets**
 > - Data spans more than **120 countries**
 
-For detailed design refer below: -</br> https://github.com/ramanpreet1990/CSE_535_Multilingual_Search_System/blob/master/documents/report.pdf
+### For detailed design refer below: -</br>
+https://github.com/ramanpreet1990/CSE_535_Multilingual_Search_System/blob/master/documents/report.pdf
 
+
+Components that we implemented
+----
+### 1. Faceted Search
+This option involves leveraging the faceted search capability provided by Solr to allow various types of drill-down. Facets include people, topics, locations etc.
+
+### 2. Cross-Document Analytics 
+This option involves computing various analytics that provide insight into the data.
+
+Examples include: volume of tweets by region/topic/hashtag, sentiment analysis, analytics illustrating cultural differences, etc. 
+
+### 3. Cross-Lingual Retrieval/Analysis 
+In this option, we demonstrates cross-lingual capabilities. This can take on many aspects: one example involves cross-lingual queries, and automatic translation of resulting foreign language snippets.
+
+For example, a search for a particular individual/place/organization should take place simultaneously in multiple languages –achieved by automatically tagging and normalizing entities across languages. 
+
+### 4. Ranking tweets 
+This option involves coming up with a novel ranking algorithm for tweets that balances recency with importance of content when presenting tweets. It could also take into account the popularity of a tweet, or the influence of a person tweeting, the location of the user, their interests etc...
+
+### 5. Graphical Analysis 
+This option involves inferring some graphical structure from the tweets, based on entities mentioned, topics discussed etc. Graph structures (or relationships between tweets) could also be inferred through connection of topics reflected in the tweets
 
 
 References
