@@ -34,9 +34,12 @@ We have taken reference from below sources to design this search system: -</br>
 
 Credits
 -------
-This project contains scripts and other related material that is developed by [**Networked Systems Research Group**](https://nsr.cse.buffalo.edu) at **[University of Buffalo, The State University of New York](http://www.cse.buffalo.edu)**.
+This project uses below open source api's. We are grateful for their contribution: -
 
-I acknowledge and grateful to [**Professor Steve ko**](https://nsr.cse.buffalo.edu/?page_id=272) and [**TA Kyungho Jeon**](http://www.cse.buffalo.edu/~kyunghoj/) for their continuous support throughout the Course ([**CSE 586**] (http://www.cse.buffalo.edu/~stevko/courses/cse486/spring16/)) that helped me learn the skills of Large Scale Distributed Systems and develop a simplified version of **Distributed HashTable based on CHORD protocol**.
+> 1. Language Detection Api of [detectlanguage.com](https://detectlanguage.com/) 
+> 2. [Microsoft Bing Language Translation Api](https://github.com/boatmeme/microsoft-translator-java-api)
+
+We also acknowledge and grateful to [**Professor Rohini K. Srihari**](http://www.cedar.buffalo.edu/~rohini/) and TAs [**James Clay**](http://www.cse.buffalo.edu/people/?u=jnclay), [**Nikhil Londhe**](http://www.cse.buffalo.edu/people/?u=nikhillo), [**Chuishi Meng**](http://www.cse.buffalo.edu/people/?u=chuishim) for their continuous support throughout the Course ([**CSE 535**](http://www.cse.buffalo.edu/shared/course.php?e=CSE&n=535&t=Information+Retrieval)) that helped us learn the skills of Retrieval and build a Multilingual Search System.
 
 
 Contributors
