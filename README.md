@@ -22,8 +22,8 @@ Highlights of our Search System
 > - Based on twitter data corpus with data of around **0.1 million tweets**
 > - Data spans more than **120 countries**
 
-### <p align="center">For detailed design refer below: -</br> 
-<p align="center"> https://github.com/ramanpreet1990/CSE_535_Multilingual_Search_System/blob/master/documents/report.pdf
+### For detailed design refer below: -</br> 
+https://github.com/ramanpreet1990/CSE_535_Multilingual_Search_System/blob/master/documents/report.pdf
 
 
 Components that we implemented
