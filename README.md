@@ -1,7 +1,8 @@
-<p align="center">Information Retrieval</br>Multilingual Search System for Social Network</br>CSE 535 - Fall 2015
-==========================================================================================
+<p align="center">Information Retrieval</br>Multilingual Search System for Social Network</br>CSE 535 - Fall 2015 </p>
 
-<p align="center">[![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_535_Multilingual_Search_System/master/Resources/3.png)](https://www.youtube.com/watch?v=t9ZassrDA40&feature=youtu.be)
+------
+
+[![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_535_Multilingual_Search_System/master/Resources/3.png)](https://www.youtube.com/watch?v=t9ZassrDA40&feature=youtu.be)
 
 
 Goal
@@ -70,7 +71,7 @@ We also acknowledge and grateful to [**Professor Rohini K. Srihari**](http://www
 Contributors
 ---------
 Ramanpreet Singh Khinda (rkhinda@buffalo.edu)</br>
-[![website](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_website.png)](https://branded.me/ramanpreet1990)		[![googleplay](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_google_play.png)](https://play.google.com/store/apps/details?id=suny.buffalo.mis.research&hl=en)		[![twitter](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_twitter.png)](https://twitter.com/dk_sunny1)		[![linkedin](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_linkedin.png)](https://www.linkedin.com/in/ramanpreet1990)
+[![linkedin](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_linkedin.png)](https://www.linkedin.com/in/ramanpreetSinghKhinda)
 
 [Alexander Simeonov](https://www.linkedin.com/in/agsimeonov) , [Akash Desai](https://www.linkedin.com/in/akash101192) , [Riaz Munshi](https://www.linkedin.com/in/riazmunshi) and [Karanjeet Singh](https://www.linkedin.com/in/karanjeet-singh-34a7836b) 
 
