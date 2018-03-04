@@ -12,8 +12,8 @@ The goal of this project is to build a multilingual [faceted search](https://en.
 
 Projected Design
 ---------------
-![Search_UI_Part_1] (https://cloud.githubusercontent.com/assets/11690982/11394811/63e58d9c-9335-11e5-847c-4d5ef01fafb9.PNG)
-![Search_UI_Part_2] (https://cloud.githubusercontent.com/assets/11690982/11394825/750533c0-9335-11e5-975d-607701e41a69.PNG)
+![Search_UI_Part_1](https://cloud.githubusercontent.com/assets/11690982/11394811/63e58d9c-9335-11e5-847c-4d5ef01fafb9.PNG)
+![Search_UI_Part_2](https://cloud.githubusercontent.com/assets/11690982/11394825/750533c0-9335-11e5-975d-607701e41a69.PNG)
 
 
 Highlights of our Search System
