@@ -70,8 +70,7 @@ We also acknowledge and grateful to [**Professor Rohini K. Srihari**](http://www
 
 Contributors
 ---------
-Ramanpreet Singh Khinda (rkhinda@buffalo.edu)</br>
-[![linkedin](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_linkedin.png)](https://www.linkedin.com/in/ramanpreetSinghKhinda)
+Ramanpreet Singh Khinda [<img src="https://github.com/ramanpreetSinghKhinda/CSE_535_Multilingual_Search_System/blob/master/Resources/linkedin.png" height="50" width="50">](https://www.linkedin.com/in/ramanpreetSinghKhinda) [<img src="https://github.com/ramanpreetSinghKhinda/CSE_535_Multilingual_Search_System/blob/master/Resources/email.png" height="50" width="50">](ramanpreetSinghKhinda@gmail.com)
 
 [Alexander Simeonov](https://www.linkedin.com/in/agsimeonov) , [Akash Desai](https://www.linkedin.com/in/akash101192) , [Riaz Munshi](https://www.linkedin.com/in/riazmunshi) and [Karanjeet Singh](https://www.linkedin.com/in/karanjeet-singh-34a7836b) 
 
