@@ -70,7 +70,7 @@ We also acknowledge and grateful to [**Professor Rohini K. Srihari**](http://www
 
 Contributors
 ---------
-Ramanpreet Singh Khinda [<img src="https://github.com/ramanpreetSinghKhinda/CSE_535_Multilingual_Search_System/blob/master/Resources/linkedin.png" height="50" width="50">](https://www.linkedin.com/in/ramanpreetSinghKhinda) [<img src="https://github.com/ramanpreetSinghKhinda/CSE_535_Multilingual_Search_System/blob/master/Resources/email.png" height="50" width="50">](ramanpreetSinghKhinda@gmail.com)
+Ramanpreet Singh Khinda [<img src="https://github.com/ramanpreetSinghKhinda/CSE_535_Multilingual_Search_System/blob/master/Resources/linkedin.png" height="50" width="50">](https://www.linkedin.com/in/ramanpreetSinghKhinda)
 
 [Alexander Simeonov](https://www.linkedin.com/in/agsimeonov) , [Akash Desai](https://www.linkedin.com/in/akash101192) , [Riaz Munshi](https://www.linkedin.com/in/riazmunshi) and [Karanjeet Singh](https://www.linkedin.com/in/karanjeet-singh-34a7836b) 
 
